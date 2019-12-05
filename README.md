@@ -6,6 +6,7 @@ A simple graphical tool for managing multiple ssh connections on linux.
 ### Requirements
 * Python3.x
 * python3-tk
+* Gnome Terminal
 
 ### Installing
 * Clone repository `git clone https://github.com/mbixl559/SSH-Connection-Manager.git connection_manager`
