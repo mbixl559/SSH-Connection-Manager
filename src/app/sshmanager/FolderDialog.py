@@ -22,6 +22,7 @@ class FolderDialog:
         
     def show(self):
         self.root = tk.Toplevel(self.master)
+        self.root.title("Add Connection")
         self.__buildUI()
         
     def __buildUI(self):
